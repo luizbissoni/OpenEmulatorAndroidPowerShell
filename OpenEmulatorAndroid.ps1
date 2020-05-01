@@ -1,4 +1,5 @@
 ﻿$ErrorActionPreference = 'SilentlyContinue'
+$WarningPreference = 'SilentlyContinue'
 
 cd "$($env:LOCALAPPDATA)\Android\Sdk\emulator" 
 
